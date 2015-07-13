@@ -1,8 +1,8 @@
 cask :v1 => 'trolcommander' do
-  version '0.9.5'
-  sha256 '9bd9fe93245e55d20085ed14d1fafbfa0303806789416a594792e8a206a11457'
+  version '0.9.6'
+  sha256 '8668dc093524c61dcb16f34311327dcff3f51cde62e8b668b5932c8a59768c42'
 
-  url 'https://github.com/trol73/trol-commander-dist/raw/master/0.9.5/trolcommander-0_9_5.app.tar.gz'
+  url 'https://github.com/trol73/trol-commander-dist/raw/master/0.9.6/trolcommander-0_9_6.app.tar.gz'
   name 'trolCommander'
   homepage 'http://trolsoft.ru/en/soft/trolcommander'
   license :gpl
